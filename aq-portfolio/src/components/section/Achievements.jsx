@@ -61,8 +61,10 @@ const AchievementSection = () => {
         }
         
         .sphere {
-          width: 100px;
-          height: 100px;
+          width: 20vw;       
+          height: 20vw;     
+          max-width: 100px; 
+          max-height: 100px;
           border-radius: 50%;
           position: relative;
           background: radial-gradient(circle at 30% 30%, var(--sphere-light), var(--sphere-color), var(--sphere-dark));
@@ -100,8 +102,10 @@ const AchievementSection = () => {
           background: rgba(255, 255, 255, 0.9);
           border: 1px solid rgba(0, 0, 0, 0.1);
           border-radius: 50%;
-          width: 50px;
-          height: 50px;
+          width: 10vw;        
+          height: 10vw;
+          max-width: 50px;    
+          max-height: 50px;
           display: flex;
           align-items: center;
           justify-content: center;
