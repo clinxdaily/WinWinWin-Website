@@ -4,42 +4,42 @@ const ServicesSection = () => {
   const services = [
     {
       id: 1,
-      image: "../../public/images/service/FSSC-22000-1024x576-1-768x432.jpg",
+      image: "/images/service/FSSC-22000-1024x576-1-768x432.jpg",
       title: "CHỨNG NHẬN FSSC 22000",
       description:
         "Trong thời đại mà an toàn thực phẩm không còn là lựa chọn, mà là tiêu chuẩn bắt buộc, các doanh nghiệp trong ngành F&B (thực phẩm – đồ uống) đang không ngừng cải tiến để đáp ứng kỳ vọng ngày càng cao từ người tiêu dùng...",
     },
     {
       id: 2,
-      image: "../../public/images/service/chung-nhan-atvstp-thumb-768x480.jpg",
+      image: "/images/service/chung-nhan-atvstp-thumb-768x480.jpg",
       title: "CHỨNG NHẬN AN TOÀN THỰC PHẨM",
       description:
         "Chứng nhận an toàn thực phẩm là văn bản pháp lý được cơ quan nhà nước hoặc tổ chức được ủy quyền cấp cho các cơ sở sản xuất, kinh doanh thực phẩm, xác nhận rằng sản phẩm hoặc quy trình sản xuất tuân thủ đầy đủ...",
     },
     {
       id: 3,
-      image: "../../public/images/service/vietgap-la-gi-1-768x480.jpg",
+      image: "/images/service/vietgap-la-gi-1-768x480.jpg",
       title: "CHỨNG NHẬN VIETGAP",
       description:
         "Trong bối cảnh hội nhập toàn cầu ngày càng sâu rộng, người tiêu dùng ngày càng quan tâm đến chất lượng, độ an toàn và nguồn gốc thực phẩm. Do đó, việc xây dựng chuỗi cung cấp thực phẩm nông sản an toàn không còn là lựa chọn...",
     },
     {
       id: 4,
-      image: "../../public/images/service/HO-SO-TU-CONG-BO-1-768x768.jpg",
+      image: "/images/service/HO-SO-TU-CONG-BO-1-768x768.jpg",
       title: "HỒ SƠ TỰ CÔNG BỐ",
       description:
         "Sản phẩm muốn lưu thông ra ngoài thị trường một cách hợp pháp và đúng luật bắt buộc các cá nhân, công ty, tổ chức kinh doanh sản phẩm phải thực hiện tự công bố sản phẩm hoặc đăng ký công bố. Vậy hồ sơ công bố chất lượng sản phẩm bao gồm...",
     },
     {
       id: 5,
-      image: "../../public/images/service/DANG-KY-SO-HUU-TRI-TUE-1-768x768.jpg",
+      image: "/images/service/DANG-KY-SO-HUU-TRI-TUE-1-768x768.jpg",
       title: "ĐĂNG KÝ SỞ HỮU TRÍ TUỆ",
       description:
         "Đăng ký sở hữu trí tuệ là một việc làm rất quan trọng và cần thiết của chủ sở hữu để bảo vệ được tài sản trí tuệ của mình, việc đăng ký sẽ giúp khách hàng được độc quyền sử dụng sản phẩm đã đăng ký trên toàn lãnh thổ Việt Nam...",
     },
     {
       id: 6,
-      image: "../../public/images/service/DANG-KY-MA-VACH-1-768x768.jpg",
+      image: "/images/service/DANG-KY-MA-VACH-1-768x768.jpg",
       title: "ĐĂNG KÝ MÃ VẠCH",
       description:
         "Mã số mã vạch là một giải pháp nhằm tạo thuận lợi và nâng cao năng suất, hiệu quả trong bán hàng và quản lý hàng hóa với một loại mã hiệu đặc biệt. Mã số mã vạch của hàng hoá bao gồm hai phần: mã số của hàng hoá và mã vạch...",

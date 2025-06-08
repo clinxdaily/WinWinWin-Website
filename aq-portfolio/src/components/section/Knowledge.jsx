@@ -8,14 +8,14 @@ const KnowledgeSection = () => {
   const services = [
     {
       id: 1,
-      image: "../../public/images/knowledge/nhanhieu.jpg",
+      image: "/images/knowledge/nhanhieu.jpg",
       title: "Đăng Ký Nhãn Hiệu Tại Việt Nam",
       description:
         "Trong thời đại mà an toàn thực phẩm không còn là lựa chọn, mà là tiêu chuẩn bắt buộc, các doanh nghiệp trong ngành F&B (thực phẩm – đồ uống) đang không ngừng cải tiến để đáp ứng kỳ vọng ngày càng cao từ người tiêu dùng...",
     },
     {
       id: 2,
-      image: "../../public/images/knowledge/luatphap.jpg",
+      image: "/images/knowledge/luatphap.jpg",
       title:
         "Thông tư 17 /2023/TT-BYT sửa đổi, bổ sung và bãi bỏ một số văn bản quy phạm pháp luật về an toàn thực phẩm do Bộ trưởng Bộ Y tế ban hành",
       description:

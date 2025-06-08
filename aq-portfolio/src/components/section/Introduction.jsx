@@ -66,7 +66,7 @@ const WinWinWinIntroduction = () => {
               <div className="text-center">
                 <div className="text-center mb-6">
                   <img
-                    src="../../public/images/logo-avatar.jpg"
+                    src="/images/logo-avatar.jpg"
                     alt="WINWINWIN Logo"
                     className="max-h-[500px] w-auto object-contain mx-auto"
                   />
