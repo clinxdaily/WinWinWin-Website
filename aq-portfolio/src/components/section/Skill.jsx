@@ -56,14 +56,14 @@ const SkillsSection = () => {
           {/* Right Column - WinWinWin Card */}
           <div className="relative">
             {/* Background decorative elements */}
-            <div
+            {/* <div
               className="absolute -top-8 -right-8 w-32 h-32 rounded-full opacity-20"
               style={{ backgroundColor: "#059669" }}
             ></div>
             <div
               className="absolute -bottom-8 -left-8 w-24 h-24 rounded-full opacity-15"
               style={{ backgroundColor: "#2563EB" }}
-            ></div>
+            ></div> */}
 
             {/* Main Card */}
             <div
